@@ -1,0 +1,6 @@
+Inversión: 572000; operación anual: 107000; salida: 38000
+TCO5: 1145000; rango: 828800–1461200; factor: 2.0017
+Tres mayores por TCO e inversión: ['PR-01', 'PR-02', 'PR-03']
+Mayor operación anual: PR-01, PR-02, PR-03.
+Todos incluyen migración, integración, formación y salida sin doble conteo.
+Rangos simétricos de sensibilidad: no son intervalos estadísticos.

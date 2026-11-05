@@ -1,0 +1,13 @@
+codigo       alternativa   tco5  costo_inaccion5  neto_economico_vs_A
+ PR-01 A · No hacer nada      0           344000                  0.0
+ PR-01 B · Mínima viable 104000           344000             102400.0
+ PR-01      C · Completa 238000           344000              71600.0
+ PR-02 A · No hacer nada      0           353600                  0.0
+ PR-02 B · Mínima viable 114000           353600              98160.0
+ PR-02      C · Completa 196000           353600             122240.0
+ PR-03 A · No hacer nada      0           899000                  0.0
+ PR-03 B · Mínima viable  88000           899000               1900.0
+ PR-03      C · Completa 165000           899000              44800.0
+A: TCO incremental cero; operación existente permanece en presupuesto base.
+Inacción y TCO se muestran separados; horas liberadas son capacidad, no reducción automática de nómina.
+No se monetizan multas ni daños a la salud. Ejecución estable durante cinco años desde aceptación; retrasos reducen el beneficio.

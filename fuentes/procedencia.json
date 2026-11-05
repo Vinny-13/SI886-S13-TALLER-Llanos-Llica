@@ -1,0 +1,49 @@
+{
+  "commit_curso": "5a1cb79deb1dc1cb6508082f7b786f682bdd3d35",
+  "archivos": [
+    {
+      "archivo": "S10_FICHA.md",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-10/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/FICHA.md"
+    },
+    {
+      "archivo": "S10_arquitectura-actual.md",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-10/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/arquitectura-actual.md"
+    },
+    {
+      "archivo": "S11_mesa-de-servicio-y-sla.md",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-11/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/mesa-de-servicio-y-sla.md"
+    },
+    {
+      "archivo": "S08_registro-datos-y-licencias.md",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-08/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/registro-datos-y-licencias.md"
+    },
+    {
+      "archivo": "S07_plan-institucional-extracto.md",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-07/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/plan-institucional-extracto.md"
+    },
+    {
+      "archivo": "S09_contratos-proveedores.md",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-09/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/contratos-proveedores.md"
+    },
+    {
+      "archivo": "S12_proveedores.csv",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-12/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/proveedores.csv"
+    },
+    {
+      "archivo": "presupuesto_ti.csv",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-13/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/presupuesto_ti.csv"
+    },
+    {
+      "archivo": "inversiones_cerradas.csv",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-13/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/inversiones_cerradas.csv"
+    },
+    {
+      "archivo": "pagos.csv",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-13/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/pagos.csv"
+    },
+    {
+      "archivo": "expedientes-de-inversion.md",
+      "url": "https://github.com/OscarJimenezFlores/PETI/blob/main/SEMANA-13/RECURSOS-TALLER/EMPRESA-10-farmacias-buena-salud/expedientes-de-inversion.md"
+    }
+  ]
+}

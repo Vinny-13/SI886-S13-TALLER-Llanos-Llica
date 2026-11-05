@@ -1,0 +1,6 @@
+Registros: 11014
+moneda estado  registros     importe
+   PEN Pagado      11014 16747445.39
+No se atribuyen todos los pagos a TI: concepto y código de proveedor no bastan para vincular cada compra al contrato o centro de costo TI.
+El costo operativo de proyectos es estimación EA-01, no extrapolación de esta población. Requiere conciliación contable de contratos y comprobantes.
+Las contraprestaciones contractuales se conservan como referencia de escala del caso; no se asignan como costo incremental de los proyectos.

@@ -1,0 +1,9 @@
+COMPROBACIONES EJECUTADAS
+1. Objetivos: 12/12 proyectos asociados; 6/6 objetivos cubiertos.
+2. Fusión: C-13 conserva seguimiento y notificaciones en PR-10; no se duplica costo.
+3. TCO: 12/12 con operación recurrente, formación, migración, integración y salida.
+4. Fichas: 12/12 con 20 campos; rangos definidos.
+5. Dependencias: DAG sin ciclos.
+6. Mayores TCO: PR-01, PR-02, PR-03; nueve alternativas.
+ALCANCE: validación de coherencia del modelo académico. No demuestra cotizaciones, beneficios reales ni aprobación.
+CIERRE EXTERNO: consultar PUBLICACION.md para la subida, PR y etiquetas taller-13 / v0.13; número de grupo por indicar.

@@ -1,0 +1,6 @@
+DAG sin ciclos. Flecha: habilitador → dependiente.
+Orden topológico válido: PR-01, PR-04, PR-05, PR-06, PR-02, PR-03, PR-07, PR-08, PR-09, PR-10, PR-11, PR-12
+Capas técnicas (no calendario ni asignación de recursos): [['PR-01', 'PR-04', 'PR-05', 'PR-06', 'PR-07', 'PR-08', 'PR-12'], ['PR-09', 'PR-11', 'PR-02'], ['PR-10', 'PR-03']]
+Habilitadores: PR-02, PR-04, PR-06, PR-09
+PR-12 es una puerta de gobierno para autorizar financiación; no crea dependencia técnica circular.
+Con tres personas de TI, secuenciar y contratar apoyo; la ejecución simultánea de doce proyectos no es viable.

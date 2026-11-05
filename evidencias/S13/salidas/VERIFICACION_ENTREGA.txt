@@ -1,0 +1,12 @@
+VERIFICACIÓN INDEPENDIENTE DE ENTREGA
+12 proyectos y 12 fichas de 20 campos.
+60 evaluaciones de sostenibilidad: cinco por proyecto.
+9 alternativas; coherencia entre TCO, exposición residual y neto.
+Totales recalculados: inversión S/ 572000; TCO S/ 1145000.
+Rangos agregados: S/ 828800–1461200.
+Excel: fórmulas y componentes conciliados contra CSV.
+PDF: 38 páginas; índice contrastado y secciones presentes.
+Identidad del estudiante verificada; sin nombres del documento de prueba.
+Imágenes Markdown de 7.1 resolubles desde su carpeta.
+Revisión visual: tablas densas, gráficos y ficha de proyecto legibles.
+Estado remoto: consultar PUBLICACION.md; grupo y validación de objetivos con PETI del equipo pendientes.

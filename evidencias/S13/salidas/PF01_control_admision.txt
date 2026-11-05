@@ -1,0 +1,4 @@
+14 candidatos; 12 admitidos; C-13 fusionado en PR-10; C-14 retirado.
+Cinco fuentes cubiertas. Ningún admitido sin objetivo.
+C-13 conserva consulta de estado y notificaciones en PR-10.
+Trazabilidad contra base analítica elaborada, no contra un PETI previo del equipo.

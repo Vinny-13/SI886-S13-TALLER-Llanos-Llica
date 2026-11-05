@@ -1,0 +1,14 @@
+resultado,descripcion,evidencia_local,url_github
+1,Cinco fuentes,[E01] Anexo A; PF01_portafolio_candidatos.csv,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/PF01_portafolio_candidatos.csv
+2,Control de admisión,[E02] Anexo A; PF00_admision.csv,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/evidencias/S13/salidas/PF01_control_admision.txt
+3,≥12 con origen,[E03] Anexo A; no se afirma PETI previo aprobado,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/PF01_portafolio_candidatos.csv
+4,Fichas de 20 campos,[E04] Anexo G; PF03_fichas/,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/tree/taller-13/07_portafolio/PF03_fichas
+5,TCO5 y rango,[E05] Anexo B; PF02_tco.csv,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/PF02_tco.csv
+6,Factor interpretado,[E06] Anexo B; PF02_resultados.txt,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/evidencias/S13/salidas/PF02_resultados.txt
+7,Tres casos / tres alternativas,[E07] Anexo C; PF04_alternativas.csv,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/PF04_alternativas.csv
+8,Inacción cuantificada,[E08] Anexo C; supuestos.csv,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/supuestos.csv
+9,Balance vs actual,[E09] Anexo D; PF05_balance.csv,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/evidencias/S13/salidas/PF05_balance_resultados.txt
+10,Gráficos balance y TCO,[E10] Anexo D; graficos/,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/graficos/PF_balance.png
+11,DAG y orden,[E11] Anexo E; PF06_dependencias_resultados.txt,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/evidencias/S13/salidas/PF06_dependencias_resultados.txt
+12,Objetivos cubiertos,[E12] Anexos A y H; PF07_cobertura.csv,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/PF07_cobertura.csv
+13,Sección 7.1 / v0.13,[E13] 7.1_Portafolio_de_Proyectos.md; anexo H,https://github.com/Vinny-13/SI886-S13-TALLER-Llanos-Llica/blob/taller-13/07_portafolio/7.1_Portafolio_de_Proyectos.md

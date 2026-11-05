@@ -1,0 +1,13 @@
+candidato,codigo,nombre,fuente,seccion,origen,objetivo,categoria,decision,razon
+C-01,PR-01,Trazabilidad de productos controlados,Obligación normativa,4.1.5,N-01,OD-01,Transformar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-02,PR-02,Consolidación de stock tolerante a fallos,Brecha de arquitectura,5.4.2,PT-01,OD-02,Transformar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-03,PR-03,Reposición y distribución asistidas por demanda,Estrategia FODA,3.5,E-01,OD-03,Crecer,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-04,PR-04,Protección de datos en fidelización y personal,Obligación normativa,4.1.5,N-02,OD-04,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-05,PR-05,Recuperación comprobada de sistemas críticos,Brecha de capacidad,4.3.5,BC-01,OD-05,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-06,PR-06,Transferencia de conocimiento del proceso nocturno,Estrategia FODA,3.5,E-02,OD-02,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-07,PR-07,Mesa de servicio con catálogo y acuerdos medibles,Brecha de servicio digital,6.1.7,SD-01,OD-05,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-08,PR-08,Inventario de software y regularización de uso,Obligación normativa,4.1.5,N-03,OD-04,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-09,PR-09,Ciclo de vida de accesos y cuentas privilegiadas,Brecha de arquitectura,5.4.2,PT-02,OD-04,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-10,PR-10,Canal de ejercicio de derechos del cliente,Brecha de servicio digital,6.1.7,SD-02,OD-04,Crecer,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-11,PR-11,Formación por rol en seguridad y dispensación digital,Estrategia FODA,3.5,E-03,OD-06,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.
+C-12,PR-12,Control de inversiones y verificación de beneficios,Brecha de capacidad,4.3.5,BC-02,OD-06,Operar,Admitido,Fuente documentada y objetivo definido en la base analítica adjunta.

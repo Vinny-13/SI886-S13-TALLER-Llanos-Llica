@@ -1,0 +1,61 @@
+codigo,dimension,afectados,efecto_indicador,norma_derecho_criterio
+PR-01,Sociedad,Clientes y director técnico,100% movimientos del piloto conciliados cada día; diferencias con investigación.,Protección del usuario; obligaciones sectoriales se validan con dirección técnica.
+PR-01,Economía,Logística y gerencia,Exposición evitable modelada C S/ 61 920/año; validar S-01/S-02.,Aprobación y aceptación internas.
+PR-01,Salud y seguridad,Dispensación y pacientes,100% alertas de diferencia revisadas antes del cierre; no se promete reducción clínica sin estudio.,Control farmacéutico del caso; no sustituir libro exigible.
+PR-01,Marco legal,Dirección técnica,23 locales con evidencia conciliable y retención aprobada; no se inventa plazo legal.,Validación sectorial previa a producción.
+PR-01,Medio ambiente,Almacenes,Registrar unidades descartadas por vencimiento por mes; meta inicial: cobertura de registro 100%.,No se afirma reducción de residuos sin línea base.
+PR-02,Sociedad,Personal de 23 locales,99% cierres consolidados antes de 07:00 en 60 días.,Continuidad del servicio al cliente.
+PR-02,Economía,TI y compras,S/ 63 648/año de exposición evitable modelada; margen y capacidad separados.,Control de inversión y beneficios.
+PR-02,Salud y seguridad,Dispensadores,Stock actualizado en 99% de cierres; no reemplaza verificación física de dispensación.,Seguridad del proceso; sin decisión clínica automática.
+PR-02,Marco legal,Contabilidad y dirección técnica,100% procesos con bitácora e integridad verificada; revisión de acceso.,Protección de datos cuando el archivo incluya datos personales.
+PR-02,Medio ambiente,TI,"Medir kWh del proceso por 1 000 cierres; línea base durante piloto, sin ahorro prometido.",No se requiere comprar 23 servidores nuevos en este alcance.
+PR-03,Sociedad,Locales y clientes,Reducir 20% tiempo de preparación vs cuatro semanas de base.,Acceso oportuno al servicio; sin promesa clínica.
+PR-03,Economía,Compras,S/ 41 960/año evitable modelado; validar merma y tiempo.,Autorización humana de cada pedido.
+PR-03,Salud y seguridad,Farmacéuticos,100% alertas de vencimiento revisadas cuando los datos estén completos.,No automatizar dispensación ni uso de medicamentos.
+PR-03,Marco legal,Compras y dirección técnica,100% órdenes con responsable y bitácora de aprobación.,Validar exigencias sectoriales; minimizar datos de clientes.
+PR-03,Medio ambiente,Almacén,Meta de piloto: reducir 25% pérdida por exceso/vencimiento si la línea base confirma el supuesto.,Registrar unidades y costo de descarte; no equivaler dinero a toneladas.
+PR-04,Sociedad,61 000 clientes y personal,Seis actividades de tratamiento con responsable y finalidad evaluada.,Ley 29733 y reglamento.
+PR-04,Economía,Administración,100% contratos de tratamiento del alcance revisados; riesgo no monetizado.,No se usa una multa supuesta como ingreso.
+PR-04,Salud y seguridad,Titulares,Cero exportaciones no autorizadas de historial de medicamentos a marketing.,Tratamiento reforzado de datos sensibles.
+PR-04,Marco legal,Administración,100% actividades con base y plazo evaluados por asesoría.,"Ley 29733; D. S. 016-2024-JUS, aplicabilidad concreta por revisar."
+PR-04,Medio ambiente,TI,Inventariar 100% copias de datos y retirar las autorizadas según retención; GB antes/después.,No borrar registros necesarios para conservación legítima.
+PR-05,Sociedad,Trabajadores y clientes,100% sistemas inventariados cubiertos por copia verificada.,Continuidad operativa.
+PR-05,Economía,Gerencia,Tres restauraciones de sistemas omitidos aprobadas; pérdida evitada no monetizada.,Aceptación con actas.
+PR-05,Salud y seguridad,Dispensadores,Tres pruebas sin afectar la venta en producción.,Usar ambientes aislados y datos de prueba.
+PR-05,Marco legal,Responsables de datos,100% copias del alcance con acceso y retención definidos.,Protección de datos; revisión de acuerdos de nube.
+PR-05,Medio ambiente,TI,Medir GB protegidos/GB almacenados y política de retención; no comprar capacidad sin dimensionar.,Consumo energético no medido todavía.
+PR-06,Sociedad,Tres integrantes de TI,Dos operadores alternos ejecutan tres reprocesos.,Reducción de dependencia laboral.
+PR-06,Economía,TI,Registrar horas por reproceso antes/después; no sumar beneficio ya atribuido a PR-02.,Evitar doble conteo de valor.
+PR-06,Salud y seguridad,TI,Cero credenciales reales en manuales; prácticas con datos de prueba.,Seguridad del acceso.
+PR-06,Marco legal,TI,100% manuales con permiso por rol y versión controlada.,Confidencialidad y protección de datos.
+PR-06,Medio ambiente,TI,Manual digital versionado; impresiones registradas si se usan.,Impacto material no establecido; sin reducción porcentual inventada.
+PR-07,Sociedad,196 trabajadores,95% solicitudes con tipo y prioridad; pendientes <=85.,Atención equitativa por criticidad.
+PR-07,Economía,Soporte,Medir costo por ticket y tiempo de resolución; no inferir demanda total de la hoja parcial.,Gestión interna del servicio.
+PR-07,Salud y seguridad,Locales,100% incidencias que afecten dispensación con escalamiento al responsable.,No resolver consultas clínicas desde TI.
+PR-07,Marco legal,Soporte,100% tickets sin datos de salud innecesarios.,Ley 29733 cuando haya datos personales.
+PR-07,Medio ambiente,TI,Registrar visitas evitadas y km antes/después; meta de medición 100% casos remotos.,No afirmar emisiones evitadas sin factor verificable.
+PR-08,Sociedad,Usuarios de 163 estaciones,100% estaciones inventariadas sin retirar herramientas críticas sin alternativa.,Continuidad del trabajo.
+PR-08,Economía,Administración,100% compras de licencias precedidas de verificación de edición y derecho.,Evitar comprar por diferencias falsas.
+PR-08,Salud y seguridad,Usuarios de POS,Cero desinstalaciones críticas sin plan de retorno probado.,No interferir en dispensación.
+PR-08,Marco legal,TI,100% derechos de uso documentados o plan de regularización.,Verificar licencia aplicable; Libre/MIT no se interpreta como deuda automática.
+PR-08,Medio ambiente,TI,100% equipos evaluados para reutilización antes de renovar.,No contempla desecho masivo de hardware.
+PR-09,Sociedad,Personal autorizado,100% bajas notificadas resueltas en 24 h.,Acceso proporcional al rol.
+PR-09,Economía,Administración,Recertificación trimestral del 100% cuentas privilegiadas; pérdidas no monetizadas.,No se inventa costo de incidente.
+PR-09,Salud y seguridad,Dispensadores,100% pruebas de acceso con plan de contingencia para mantener operación.,Validar compatibilidad del POS.
+PR-09,Marco legal,Titulares,100% perfiles vinculados a finalidad y responsable.,Ley 29733 como marco de control de acceso.
+PR-09,Medio ambiente,TI,Sin efecto material directo identificado; no compra hardware en este alcance.,No aplica meta de residuos; se documenta el motivo.
+PR-10,Sociedad,Clientes,100% solicitudes con acuse y responsable; formulario probado con usuarios.,Ejercicio de derechos de datos.
+PR-10,Economía,Atención,Medir minutos por solicitud y solicitudes resueltas; sin beneficio monetario supuesto.,Gestión del servicio.
+PR-10,Salud y seguridad,Titulares,Cero adjuntos de salud expuestos en notificaciones.,Minimización de datos sensibles.
+PR-10,Marco legal,Administración,95% pedidos dentro del plazo que valide asesoría.,Ley 29733 y reglamento; no se fija un plazo legal sin verificar caso.
+PR-10,Medio ambiente,Atención,Registrar trámites sin papel y traslados declarados evitados; meta de medición 100%.,No convertir registros a CO2 sin metodología.
+PR-11,Sociedad,196 trabajadores,90% del personal completa 24 h/año y alcanza 80/100.,OE-03 del plan institucional.
+PR-11,Economía,RR. HH.,Costo por participante aprobado y horas registradas; no duplica capacitación de PR-01/02.,Formación general separada de inducción específica de soluciones.
+PR-11,Salud y seguridad,Personal y clientes,100% cohortes practican reporte seguro de incidente; sin consejo farmacológico.,"Competencia de seguridad, no licencia profesional."
+PR-11,Marco legal,Trabajadores,100% asistentes recibe formación sobre uso apropiado de datos por rol.,Ley 29733 como contenido de capacitación.
+PR-11,Medio ambiente,RR. HH.,Material digital y registro de sesiones remotas; medir impresiones por cohorte.,No se afirma ahorro sin base.
+PR-12,Sociedad,Áreas usuarias,100% inversiones con acta de aceptación y dueño del beneficio.,Rendición de cuentas interna.
+PR-12,Economía,Gerencia,100% inversiones revisadas a 90 y 180 días con costo y resultado.,"Separar presupuesto, ejecución y beneficio."
+PR-12,Salud y seguridad,Dirección técnica,100% proyectos de dispensación incluyen validación del responsable farmacéutico.,Puerta de aprobación por criticidad.
+PR-12,Marco legal,Gerencia,100% decisiones con responsable y revisión de cumplimiento aplicable.,Sin afirmar certificación COBIT por crear un comité.
+PR-12,Medio ambiente,Compras,100% nuevas compras incluyen criterio de vida útil y salida de equipos cuando aplique.,No aplicar criterio de residuos a un servicio sin equipos sin justificarlo.

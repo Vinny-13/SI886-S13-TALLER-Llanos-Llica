@@ -1,0 +1,9 @@
+             inversion  operacion_anual  salida    tco5  porcentaje_tco  equivalente_anual
+categoria                                                                                 
+Operar          235000            47000   17000  487000       42.532751            97400.0
+Crecer          117000            20000    7000  224000       19.563319            44800.0
+Transformar     220000            40000   14000  434000       37.903930            86800.0
+Histórico plan: 468000.00; ejecutado: 402214.61; desvío: -14.06%
+Plan: operar 92%, inversión sin desglose crecer/transformar 8%. No se inventa la división.
+Propuesta: TCO/5 es equivalente anual de ciclo de vida, no presupuesto de caja. No se suma al presupuesto actual sin retirar solapamientos.
+Referencia orientativa: operar 50–70%, crecer 20–30%, transformar 10–20%. La cartera de nuevas iniciativas no equivale a toda la operación TI.
